@@ -4,7 +4,7 @@ Estou em busca de uma primeira oportunidade como desenvolvedor front-end onde eu
 
 <h3>Contatos</h3>
 <p>
-  <a href="https://www.linkedin.com/in/victorfariasdev/" target="_blank">
+  <a href="https://www.linkedin.com/in/anderson-ribeiro-1ab58383/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:andersonribeironunes@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
