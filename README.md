@@ -1,5 +1,5 @@
 <h2 align="center">Olá, eu sou Anderson Ribeiro Nunes 👋</h2>
-<p>Atualmente estou cursando técnico em informática para internet na escola técnica QI onde tive conhecimento em Flutter, Android nativo(Java) e Web, fora do curso venho estudando HTML, CSS, JavaScript e atualmente VueJS, além destas técnologias tenho interesse em aprender TypeScript, React e testes funcionais.
+<p>Formado no curso técnico em informática para internet na escola técnica QI onde tive conhecimento em Flutter, Android nativo(Java) e Web, fora do curso venho estudando HTML, CSS, JavaScript e atualmente VueJS, além destas técnologias tenho interesse em aprender TypeScript, React e testes funcionais.
 Estou em busca de uma primeira oportunidade como desenvolvedor front-end onde eu consiga aprender e desenvolver a minha carreira.</p>
 
 <h3>Contatos</h3>
