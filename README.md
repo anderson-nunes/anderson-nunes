@@ -20,7 +20,6 @@ Estou em busca de uma primeira oportunidade como desenvolvedor front-end onde eu
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"/>
 </div>
 
-
 <!--
 **anderson-nunes/anderson-nunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
