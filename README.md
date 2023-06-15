@@ -1,4 +1,5 @@
 <h2 align="center">Olá, eu sou Anderson Ribeiro Nunes 👋</h2>
+<li>Aqui você encontrará meus projetos pessoais e de estudo. Sinta-se a vontade para explorar.</li>
 <li>Atualmente sou aluno do bootcamp de web full stack na Labenu, programa com mais de 1000 horas de experiência prática em desenvolvimento front-end, guiadas por metodologias ágeis (Kanban/Scrum).Habilidades aprendidas durante o curso: HTML, CSS, JavaScript, React.JS, Styled-Components, React Hooks, REST, Api Restful, HTTP, Jest, TypeScript, Git, Github, Firebase, Testes unitários, UI Design,React-Router-Dom.</li>
 <li>Formado no curso técnico em informática para internet na escola técnica QI onde tive conhecimento em Flutter, Android nativo(Java) e Web.
 Estou em busca de uma primeira oportunidade como desenvolvedor front-end onde eu consiga aprender e desenvolver a minha carreira. </li>
