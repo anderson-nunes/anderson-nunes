@@ -8,12 +8,12 @@
         <ul>
             <li>🎓 Graduando em Análise e Desenvolvimento de Sistemas na UniCesumar.</li>
             <li>💻 Concluí recentemente o bootcamp de Web Full Stack na Labenu, acumulando mais de 1000 horas de experiência prática em desenvolvimento Full Stack. Durante o curso, mergulhei em diversas tecnologias, incluindo:</li>
+            <li>📚 Além da formação acadêmica, tenho uma base sólida adquirida durante o curso técnico em informática para internet na escola técnica QI. Lá, explorei tecnologias como Flutter, Android nativo (Java) e desenvolvimento web.</li>
             <li>🚀 HTML, CSS, JavaScript</li>
             <li>⚛ React.JS, Styled-Components, React Hooks</li>
             <li>🌐 REST, Api Restful, HTTP</li>
             <li>🃏 Jest, TypeScript, Git, Github, Firebase</li>
             <li>🎨 Testes unitários, UI Design, React-Router-Dom</li>
-            <li>📚 Além da formação acadêmica, tenho uma base sólida adquirida durante o curso técnico em informática para internet na escola técnica QI. Lá, explorei tecnologias como Flutter, Android nativo (Java) e desenvolvimento web.</li>
         </ul>
     </section>
     <section>
