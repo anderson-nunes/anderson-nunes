@@ -7,7 +7,7 @@
         <h4>Olá, sou Anderson, um entusiasta apaixonado por programação e desenvolvimento de sistemas. Este repositório é o meu cantinho virtual, onde guardo e compartilho meus projetos pessoais e conquistas acadêmicas.</h4>
         <ul>
             <li>🎓 Graduando em Análise e Desenvolvimento de Sistemas na UniCesumar.</li>
-            <li>💻 Concluí recentemente o bootcamp de Web Full Stack na Labenu, acumulando mais de 1000 horas de experiência prática em desenvolvimento Full Stack. Durante o curso, mergulhei em diversas tecnologias, incluindo:</li>
+            <li>💻 Concluí recentemente o bootcamp de Web Full Stack na Labenu, acumulando mais de 1000 horas de experiência prática em desenvolvimento Full Stack. Durante o curso, mergulhei em diversas tecnologias.</li>
             <li>📚 Além da formação acadêmica, tenho uma base sólida adquirida durante o curso técnico em informática para internet na escola técnica QI. Lá, explorei tecnologias como Flutter, Android nativo (Java) e desenvolvimento web.</li>
             <li>🚀 HTML, CSS, JavaScript</li>
             <li>⚛ React.JS, Vue.JS, Next.JS</li>
